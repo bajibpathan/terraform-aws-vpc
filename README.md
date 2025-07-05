@@ -6,4 +6,5 @@ This module is developed for joindevops company. Projects inside joindevops foll
 * environment (required) - Users should specify their environment
 * cidr_block (optional) - Users can provide their CIDR block. Default is "10.0.0.0/16"
 
-# terraform-aws-vpc
+## Outputs
+* vpic_id - Exports VPC ID created
